@@ -37,7 +37,8 @@ These datasets can be downloaded from the web-page of the [UCI Machine Learning 
 
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
 |:---|:---:|
-|&nbsp;&nbsp;&nbsp;**-** *Results with standard datasets* | [<img src="icon-excel.png" width="50">](https://raw.github.com/joseasaezm/ksufs/master/docs/ksufs-standard.xls)|
-|&nbsp;&nbsp;&nbsp;**-** *Results with big data problems* | [<img src="icon-excel.png" width="50">](https://raw.github.com/joseasaezm/ksufs/master/docs/ksufs-bigdata.xls)|
-|&nbsp;&nbsp;&nbsp;**-** *Average performance and standard deviation* | [<img src="icon-pdf.png" width="50">](https://raw.github.com/joseasaezm/ksufs/master/docs/ksufs-PerfSD.pdf)|
+|&nbsp;&nbsp;&nbsp;**-** *Results in datasets with temperature variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/joseasaezm/ksufs/master/docs/ksufs-standard.xls)|
+|&nbsp;&nbsp;&nbsp;**-** *Results in datasets with mass transfer variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/joseasaezm/ksufs/master/docs/ksufs-bigdata.xls)|
+|&nbsp;&nbsp;&nbsp;**-** *Results in datasets with radiation variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/joseasaezm/ksufs/master/docs/ksufs-bigdata.xls)|
+|&nbsp;&nbsp;&nbsp;**-** *Results in datasets with meteorological variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/joseasaezm/ksufs/master/docs/ksufs-bigdata.xls)|
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
