@@ -4,7 +4,7 @@ This web-page contains complementary material to the research paper:
 
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 |:---|:---|
-|<a href="#img1"><img src="icon-research.jpg" width="150"></a>|José A. Sáez, Emilio Corchado. **KSUFS: A novel unsupervised feature selection method based on statistical tests for standard and big data problems**. [IEEE Access](https://ieeeaccess.ieee.org/), 2020 (submitted).|
+|<a href="#img1"><img src="icon-research.jpg" width="150"></a>|Juan Martín, José A. Sáez, Emilio Corchado. **On the suitability of stacking-based ensembles in smart agriculture for evapotranspiration prediction**. [IEEE Access](https://ieeeaccess.ieee.org/), 2020 (submitted).|
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 
 <br>
