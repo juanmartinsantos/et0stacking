@@ -30,7 +30,9 @@ This research considers daily climatic data from 77 meteorological stations of 2
 <a href="#img2"><img src="sb-datasets.jpg" width="600"></a>
 </center>
 
-These datasets can be downloaded from the web-page of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
+These datasets can be downloaded from the web-pages:
+[https://eportal.mapa.gob.es/](https://eportal.mapa.gob.es/)
+[https://www.meteo.cat/](https://www.meteo.cat/)
 
 <br>
 
