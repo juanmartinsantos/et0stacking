@@ -42,8 +42,8 @@ These datasets can be downloaded from the web-pages:
 
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
 |:---|:---:|
-|&nbsp;&nbsp;&nbsp;**-** *Results in datasets with temperature variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/temperature.xls)|
-|&nbsp;&nbsp;&nbsp;**-** *Results in datasets with mass transfer variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/mass.xls)|
-|&nbsp;&nbsp;&nbsp;**-** *Results in datasets with radiation variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/radiation.xls)|
-|&nbsp;&nbsp;&nbsp;**-** *Results in datasets with meteorological variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/meteorological.xls)|
+|&nbsp;&nbsp;&nbsp;**-** *RMSE results in datasets with temperature variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/temperature.xls)|
+|&nbsp;&nbsp;&nbsp;**-** *RMSE results in datasets with mass transfer variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/mass.xls)|
+|&nbsp;&nbsp;&nbsp;**-** *RMSE results in datasets with radiation variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/radiation.xls)|
+|&nbsp;&nbsp;&nbsp;**-** *RMSE results in datasets with meteorological variables* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/meteorological.xls)|
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
