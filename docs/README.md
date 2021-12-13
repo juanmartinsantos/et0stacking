@@ -4,7 +4,7 @@ This webpage contains complementary material to the research paper:
 
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 |:---|:---|
-|<a href="#img1"><img src="icon-research.jpg" width="150"></a>|Juan Martín, José A. Sáez, Emilio Corchado. **On the suitability of stacking-based ensembles in smart agriculture for evapotranspiration prediction**. [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing), 2021 (submitted).|
+|<a href="#img1"><img src="icon-research.jpg" width="150"></a>|**On the suitability of stacking-based ensembles in smart agriculture for evapotranspiration prediction**.|
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 
 <br>
@@ -55,3 +55,8 @@ Additionally, they can be downloaded [here](https://raw.github.com/juanmartinsan
 |&nbsp;&nbsp;&nbsp;**-** *MAE results with radiation variables.* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/Radiation_MAE.xls)|
 |&nbsp;&nbsp;&nbsp;**-** *MAE results with meteorological variables.* | [<img src="icon-excel.png" width="50">](https://raw.github.com/juanmartinsantos/et0stacking/master/docs/meteorological_MAE.xls)|
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
+
+To cite this paper:
+<a href="#img1"><img src="bannercolor.jpg" width="850" height="10"></a> <br>
+J. Martín, J. A. Sáez and E. Corchado, **On the suitability of stacking-based ensembles in smart agriculture for evapotranspiration prediction**, *Applied Soft Computing*, vol. 108, pp. 107509, 2021, doi: [https://doi.org/10.1016/j.asoc.2021.107509].
+<a href="#img1"><img src="bannercolor.jpg" width="850" height="10"></a>
